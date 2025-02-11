@@ -1,4 +1,4 @@
-# ChallengeQaAPI# Challenge test con Openweather y jsonplaceholder
+# ChallengeQa# Challenge test con Openweather y jsonplaceholder
 
 Esta es una prueba idéntica a otra de las pruebas que hice en Cypress pero en este caso utilizando Cucumber y Gherkin.
 
